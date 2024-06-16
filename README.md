@@ -6,7 +6,7 @@ The repository of ~~my~~ curated **addons** for [Bunny](https://github.com/pyonc
 
 * Rosé Pine
 ```
-https://github.com/mementomoryn/bunny-addons/raw/main/themes/Ros%C3%A9-Pine.json
+https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A9-Pine.json
 ```
 * Gruvbox
 ```
