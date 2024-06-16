@@ -17,3 +17,10 @@ https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Gruvbox.json
 ```
+
+## Fonts
+
+* Product Sans <sup>(Google)</sup>
+```
+https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/Product%20Sans/ProductSans.json
+```
