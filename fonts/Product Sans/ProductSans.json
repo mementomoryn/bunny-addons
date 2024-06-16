@@ -3,6 +3,7 @@
     "name": "Product Sans",
     "previewText": "Geometric sans-serif typeface created by Google for branding purposes.",
     "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Black.ttf",
         "ggsans-Bold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Bold.ttf",
         "ggsans-BoldItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-BoldItalic.ttf",
         "ggsans-ExtraBold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Black.ttf",
@@ -11,7 +12,13 @@
         "ggsans-MediumItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-MediumItalic.ttf",
         "ggsans-Normal": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Regular.ttf",
         "ggsans-NormalItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Medium.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-MediumItalic.ttf"
+        "ggsans-Semibold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Regular.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Italic.ttf",
+        "NotoSans-Bold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Black.ttf",
+        "NotoSans-Medium": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/mementomoryn/bunny-addons/raw/main/fonts/Product Sans/ProductSans-Regular.ttf"
     }
 }
