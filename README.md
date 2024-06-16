@@ -1,6 +1,11 @@
-<h1 style="text-align:center;">Bunny Addons</h1>
+<div align="center">
+  
+# Bunny Addons
 
 The repository of ~~my~~ curated **addons** for [Bunny](https://github.com/pyoncord/Bunny).
+
+</div>
+<br>
 
 ## Themes
 
