@@ -1,4 +1,4 @@
-# Bunny Addons
+<h1 style="text-align:center;">Bunny Addons</h1>
 
 The repository of ~~my~~ curated **addons** for [Bunny](https://github.com/pyoncord/Bunny).
 
