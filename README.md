@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pyoncord/BunnyManager/main/images/bunny_logo.png" alt="Bunny logo" width="200px" style="border-radius: 50%" />
+<img src="https://raw.githubusercontent.com/pyoncord/BunnyManager/main/images/bunny_logo.png" alt="Bunny logo" width="100px" style="border-radius: 50%" />
   
 # Bunny Addons
 
