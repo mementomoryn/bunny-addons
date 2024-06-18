@@ -8,6 +8,8 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commit&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](https://github.com/mementomoryn/bunny-addons/commits)
 
+<br>
+
 The repository of ~~my~~ curated **addons** for [Bunny](https://github.com/pyoncord/Bunny).
 
 </div>
