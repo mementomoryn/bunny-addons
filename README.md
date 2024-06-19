@@ -21,14 +21,42 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 
 ##### Cloud Sync
 
+Backup and sync your plugins and/or themes to the clouds.
+
 ```
 https://vendetta.nexpid.xyz/cloud-sync/
 ```
 
 ##### Mute New Guilds
 
+Automatically mutes new guilds you joined based on your preferences.
+
 ```
 https://carince.github.io/VendettaPlugins/muteNewGuilds/
+```
+
+##### Dislate
+
+Translate text into your desired language, directly on the app.
+
+```
+https://rico040.github.io/bunny-plugins/dislate/
+```
+
+##### File Content Preview
+
+Allows you to directly preview the contents of text files.
+
+```
+https://fres621.github.io/vendetta-plugins/FileContentPreview/
+```
+
+##### No Typing
+
+Hides your typing status from other peoples.
+
+```
+https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/
 ```
 
 <br>
