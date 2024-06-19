@@ -26,9 +26,9 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A9-Pine.json
 ```
 
-##### Catppuccin
+##### Catppuccin Mocha
 
-Soothing theme pastel for the high-spirited!
+Soothing theme pastel for the high-spirited! Mocha variant.
 
 ```
 https://raw.githubusercontent.com/catppuccin/vendetta/main/mocha.json
