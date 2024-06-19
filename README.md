@@ -25,11 +25,28 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A9-Pine.json
 ```
+
+##### Catppuccin
+
+Soothing theme pastel for the high-spirited!
+
+```
+https://raw.githubusercontent.com/catppuccin/vendetta/main/mocha.json
+```
+
 ##### Gruvbox
 
 Retro groove color scheme, contrast enough and still pleasant for the eyes.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Gruvbox.json
+```
+
+##### Pyontheme
+
+Pyoncord unique purple color in discord (real and true).
+
+```
+https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json
 ```
 
 ## Fonts
