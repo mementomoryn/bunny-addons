@@ -31,6 +31,8 @@ https://vendetta.nexpid.xyz/cloud-sync/
 https://carince.github.io/VendettaPlugins/muteNewGuilds/
 ```
 
+<br>
+
 ## Themes
 
 ##### Rosé Pine
@@ -62,6 +64,8 @@ Pyoncord unique purple color in discord (real and true).
 ```
 https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json
 ```
+
+<br>
 
 ## Fonts
 
