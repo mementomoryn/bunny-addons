@@ -19,18 +19,24 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 
 ## Themes
 
-* Rosé Pine
+##### Rosé Pine
+
+All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A9-Pine.json
 ```
-* Gruvbox
+##### Gruvbox
+
+Retro groove color scheme, contrast enough and still pleasant for the eyes.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Gruvbox.json
 ```
 
 ## Fonts
 
-* Product Sans <sup>(Google)</sup>
+##### Product Sans
+
+Geometric sans-serif typeface created by Google.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/Product%20Sans/ProductSans.json
 ```
