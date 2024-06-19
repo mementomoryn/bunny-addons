@@ -61,7 +61,7 @@ https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-ty
 
 ##### Jump To
 
-Let's you jump to referenced message and the beginning of forum posts
+Let's you jump to referenced message and the beginning of forum posts.
 
 ```
 https://aliernfrog.github.io/vd-plugins/JumpTo/
@@ -118,4 +118,20 @@ https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json
 Geometric sans-serif typeface created by Google.
 ```
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/Product%20Sans/ProductSans.json
+```
+
+##### Meloso
+
+Easygoing variable typeface with playful, organic feel, and hand-drawn charm.
+
+```
+https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/melosofont/meloso.json
+```
+
+##### Torus
+
+Rounded monoline typeface. A lovely warm typeface accompanied by simplistic forms and soft terminals.
+
+```
+https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/torusfont/torus.json
 ```
