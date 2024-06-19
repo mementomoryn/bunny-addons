@@ -12,7 +12,7 @@
 
 <br>
 
-The repository of ~~my~~ curated **addons** for [Bunny](https://github.com/pyoncord/Bunny).
+A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/pyoncord/Bunny)**.
 
 </div>
 <br>
