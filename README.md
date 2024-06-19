@@ -17,6 +17,20 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 </div>
 <br>
 
+## Plugins
+
+##### Cloud Sync
+
+```
+https://vendetta.nexpid.xyz/cloud-sync/
+```
+
+##### Mute New Guilds
+
+```
+https://carince.github.io/VendettaPlugins/muteNewGuilds/
+```
+
 ## Themes
 
 ##### Rosé Pine
@@ -26,9 +40,9 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/themes/Ros%C3%A9-Pine.json
 ```
 
-##### Catppuccin Mocha
+##### Catppuccin
 
-Soothing theme pastel for the high-spirited! Mocha variant.
+Soothing theme pastel for the high-spirited!
 
 ```
 https://raw.githubusercontent.com/catppuccin/vendetta/main/mocha.json
