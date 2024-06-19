@@ -59,6 +59,22 @@ Hides your typing status from other peoples.
 https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/
 ```
 
+##### Jump To
+
+Let's you jump to referenced message and the beginning of forum posts
+
+```
+https://aliernfrog.github.io/vd-plugins/JumpTo/
+```
+
+##### Nexx Utils
+
+Several utilities to enchance your user experience.
+
+```
+https://vendetta.nexpid.xyz/nexxutils/
+```
+
 <br>
 
 ## Themes
