@@ -56,7 +56,7 @@ https://fres621.github.io/vendetta-plugins/FileContentPreview/
 Hides your typing status from other peoples.
 
 ```
-https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/
+https://redstonekasi.github.io/vendetta-plugins/no-typing
 ```
 
 ##### Jump To
