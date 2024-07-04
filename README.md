@@ -24,7 +24,7 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 Backup and sync your plugins and/or themes to the clouds.
 
 ```
-https://vendetta.nexpid.xyz/cloud-sync/
+https://bunny.nexpid.xyz/cloud-sync/
 ```
 
 ##### Mute New Guilds
@@ -72,7 +72,7 @@ https://aliernfrog.github.io/vd-plugins/JumpTo/
 Several utilities to enchance your user experience.
 
 ```
-https://vendetta.nexpid.xyz/nexxutils/
+https://bunny.nexpid.xyz/nexxutils/
 ```
 
 <br>
