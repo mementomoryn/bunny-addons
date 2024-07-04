@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pyoncord/BunnyManager/main/images/bunny_logo.png" alt="Bunny logo" width="150px" style="border-radius: 50%" />
+[<img src="https://raw.githubusercontent.com/pyoncord/BunnyManager/main/images/bunny_logo.png" alt="Bunny logo" width="150px" style="border-radius: 50%" />](../../)
   
 # Bunny Addons
 
 <br>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](https://github.com/mementomoryn/bunny-addons/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](../../stargazers)
 
-[![GitHub last commits](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](https://github.com/mementomoryn/bunny-addons/commits)
+[![GitHub last commits](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](../../commits)
 
 <br>
 
