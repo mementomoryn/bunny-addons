@@ -75,6 +75,46 @@ Several utilities to enchance your user experience.
 https://bunny.nexpid.xyz/nexxutils/
 ```
 
+##### Themes+
+
+Add custom icons and colors to your themes.
+
+```
+https://bunny.nexpid.xyz/themes-plus/
+```
+
+##### Hide Call Buttons
+
+Hide call buttons from your DMs, user profiles, and VCs.
+
+```
+https://janisslsm.github.io/vdplugins/HideCallButtons/
+```
+
+##### Splasher
+
+Use imgur images as profile banners!
+
+```
+https://janisslsm.github.io/vdplugins/Splasher/
+```
+
+##### Pastelize
+
+Pastelize user texts based on their user id.
+
+```
+https://bunny.nexpid.xyz/nexxutils/
+```
+
+##### Freecons
+
+Unlock all Discord custom app icons for free!
+
+```
+https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/
+```
+
 <br>
 
 ## Themes
