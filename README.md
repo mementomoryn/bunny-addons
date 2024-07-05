@@ -91,6 +91,14 @@ Hide call buttons from your DMs, user profiles, and VCs.
 https://janisslsm.github.io/vdplugins/HideCallButtons/
 ```
 
+##### Hide App Button
+
+Hide app button from your message bar.
+
+```
+https://rico040.github.io/bunny-plugins/hideappbutton/
+```
+
 ##### Splasher
 
 Use imgur images as profile banners!
@@ -113,6 +121,14 @@ Unlock all Discord custom app icons for free!
 
 ```
 https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/
+```
+
+##### Fake Avatars
+
+Change yours or others PFP locally.
+
+```
+https://angelix1.github.io/MP/vendetta/fakeavatars
 ```
 
 <br>
