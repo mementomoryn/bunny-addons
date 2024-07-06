@@ -6,9 +6,9 @@
 
 <br>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](../../stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=%23444444&color=%23383878&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](../../stargazers)
 
-[![GitHub last commits](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=%23444444&color=%23E57373&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](../../commits)
+[![GitHub last commits](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=%23444444&color=%23303060&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](../../commits)
 
 <br>
 
