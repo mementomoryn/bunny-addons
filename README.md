@@ -6,9 +6,9 @@
 
 <br>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=%23444444&color=%23383878&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](../../stargazers)
+[![GitHub Repo stars](https://shields.io/github/stars/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Stars&labelColor=222333&color=383878&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fstargazers)](../../stargazers)
 
-[![GitHub last commits](https://img.shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=%23444444&color=%23303060&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](../../commits)
+[![GitHub last commits](https://shields.io/github/last-commit/mementomoryn/bunny-addons?style=for-the-badge&logo=github&label=Commits&labelColor=222333&color=303060&link=https%3A%2F%2Fgithub.com%2Fmementomoryn%2Fbunny-addons%2Fcommits)](../../commits)
 
 <br>
 
@@ -22,6 +22,11 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 ##### Cloud Sync
 
 Backup and sync your plugins and/or themes to the clouds.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="https://shields.io/badge/Open_Link-222333?style=for-the-badge&logo=links&logoColor=white" />
+  <source media="(prefers-color-scheme: dark)" src="https://shields.io/badge/Open_Link-F5F5F5?style=for-the-badge&logo=links&logoColor=black" />
+</picture>
 
 ```
 https://bunny.nexpid.xyz/cloud-sync/
