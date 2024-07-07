@@ -23,10 +23,7 @@ A personal collection of ~~my~~ curated addons for **[Bunny](https://github.com/
 
 Backup and sync your plugins and/or themes to the clouds.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" src="https://shields.io/badge/Open_Link-222333?style=for-the-badge&logo=links&logoColor=white" />
-  <source media="(prefers-color-scheme: dark)" src="https://shields.io/badge/Open_Link-F5F5F5?style=for-the-badge&logo=links&logoColor=black" />
-</picture>
+[![Open Link](https://shields.io/badge/Open_Link-222333?style=for-the-badge&logo=links&logoColor=white)](https://bunny.nexpid.xyz/cloud-sync/)
 
 ```
 https://bunny.nexpid.xyz/cloud-sync/
