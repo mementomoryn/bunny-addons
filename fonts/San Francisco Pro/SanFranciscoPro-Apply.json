@@ -1,0 +1,25 @@
+{
+	"spec": 1,
+	"name": "San Francisco Pro",
+	"previewText": "Neutral and flexible sans-serif typeface created by Apple for iOS, iPadOS, macOS and tvOS.",
+	"main": {
+		"ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Black.otf",
+		"ggsans-Bold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Bold.otf",
+		"ggsans-BoldItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-BoldItalic.otf",
+		"ggsans-ExtraBold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Black.otf",
+		"ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-BlackItalic.otf",
+		"ggsans-Medium": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Medium.otf",
+		"ggsans-MediumItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-MediumItalic.otf",
+		"ggsans-Normal": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Regular.otf",
+		"ggsans-NormalItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-RegularItalic.otf",
+		"ggsans-Semibold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Semibold.otf",
+		"ggsans-SemiboldItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-SemiboldItalic.otf",
+		"NotoSans-Bold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Bold.otf",
+		"NotoSans-ExtraBold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Black.otf",
+		"NotoSans-Medium": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Medium.otf",
+		"NotoSans-Normal": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Regular.otf",
+		"NotoSans-NormalItalic": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-RegularItalic.otf",
+		"NotoSans-Semibold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Semibold.otf",
+		"SourceCodePro-Semibold": "https://raw.githubusercontent.com/mementomoryn/bunny-addons/main/fonts/San Francisco Pro/SanFranciscoPro-Semibold.otf"
+	}
+}
