@@ -12,7 +12,7 @@
 
 <br>
 
-A personal collection of ~~my~~ addons for **[Bunny](https://github.com/pyoncord/Bunny)** and **[Revenge](https://github.com/revenge-mod/revenge-bundle)**.
+A personal collection of ~~my~~ addons for **~~[Bunny](https://github.com/pyoncord/Bunny)~~**, **[Revenge](https://github.com/revenge-mod/revenge-bundle)**, and **[Kettu]([https://github.com/revenge-mod/revenge-bundle](https://github.com/C0C0B01/Kettu))**.
 
 </div>
 <br>
